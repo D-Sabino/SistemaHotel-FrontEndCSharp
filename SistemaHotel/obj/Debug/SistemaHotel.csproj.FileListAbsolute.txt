@@ -1,0 +1,14 @@
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Login.resources
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.View.Cadastros.FrmFuncionarios.resources
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.View.Cadastros.FrmCargo.resources
+C:\Users\felil\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.View.Produtos.FrmProdutos.resources
